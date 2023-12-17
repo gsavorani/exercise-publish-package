@@ -1,3 +1,15 @@
 {
-  "your": "json config here"
+  "name": "@gsavorani/exercise-publish-package",
+  "version": "0.0.1",
+  "description": "Test",  
+  "files": [
+    "index.js"
+  ],  
+  "repository": "https://github.com/gsavorani/exercise-publish-package.git",
+  "author": "shadowsheep1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gsavorani/exercise-publish-package/issues"
+  },
+  "homepage": "https://github.com/gsavorani/exercise-publish-package"
 }
