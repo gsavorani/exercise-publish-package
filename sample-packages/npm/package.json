@@ -1,6 +1,6 @@
 {
   "name": "@gsavorani/exercise-publish-package",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Test",  
   "files": [
     "index.js"
